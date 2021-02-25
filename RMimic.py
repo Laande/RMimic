@@ -4,7 +4,7 @@ from g_python.hmessage import Direction, HMessage
 
 extension_info = {
     "title": "RMimic",
-    "description": "' :rmimic x'",
+    "description": ":rmimic x",
     "version": "2.0",
     "author": "Lande"
 }
