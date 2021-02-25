@@ -5,14 +5,13 @@
 > python -m pip install g-python
 
 
+1. Open G-Earth
 
-Open G-Earth
+2. Extensions
 
-Extensions
+3. " Install "
 
-" Install "
-
-Selec " RMimic.py "
+4. Selec " RMimic.py "
 
 
 And... Done !
