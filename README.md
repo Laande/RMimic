@@ -15,3 +15,8 @@
 
 
 And... Done !
+
+
+You can also use :
+
+> python RMimic.py -p 9092
